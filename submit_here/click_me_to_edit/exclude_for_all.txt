@@ -1,1 +1,139 @@
-#
+
+# https://github.com/badmojr/1Hosts/issues/1275
+deepstatemap.live
+
+# https://github.com/badmojr/1Hosts/issues/1264
+pop3.xtra.xo.nz
+send.xtra.xo.nz
+
+# https://github.com/badmojr/1Hosts/issues/1257
+skiff.com
+app.skiff.com
+api.skiff.com
+relay-proxy.skiff.com
+
+# https://github.com/badmojr/1Hosts/issues/1228
+securepoint.de
+my.securepoint.de
+licensing.securepoint.de
+v11.licensing.securepoint.de
+cloudbackup.securepoint.de
+v11.cloudbackup.securepoint.de
+blacklist.update.securepoint.de
+update.securepoint.de
+
+# https://github.com/badmojr/1Hosts/issues/1226
+mavencoalition.io
+theareanagroup.net
+
+# https://github.com/badmojr/1Hosts/issues/1221
+pumble.com
+
+# https://github.com/badmojr/1Hosts/issues/1220
+taibbi.substack.com
+Racket.news
+target.substack-custom-domains.com
+
+# https://github.com/badmojr/1Hosts/issues/1217
+thedonutwhole.com
+
+# https://github.com/badmojr/1Hosts/issues/1216
+tdarr.io
+
+# https://github.com/badmojr/1Hosts/issues/1215
+serverlist.piaservers.net
+
+# https://github.com/badmojr/1Hosts/issues/1214
+ppa.launchpadcontent.net
+private-ppa.launchpadcontent.net
+
+# https://github.com/badmojr/1Hosts/issues/1209
+oasisfeed.com
+
+# https://github.com/badmojr/1Hosts/issues/1208
+aliexpress-media.com
+
+# https://github.com/badmojr/1Hosts/issues/1207
+doxbin.com
+
+# https://github.com/badmojr/1Hosts/issues/1205
+level.co
+
+# https://github.com/badmojr/1Hosts/issues/1204
+biblica.com
+
+# https://github.com/badmojr/1Hosts/issues/1202
+lifechef.com
+
+# https://github.com/badmojr/1Hosts/issues/1201
+lguplus.com
+
+# https://github.com/badmojr/1Hosts/issues/1196
+ejie.me
+
+# https://github.com/badmojr/1Hosts/issues/1194
+# https://github.com/badmojr/1Hosts/issues/1179
+kick.com
+
+# https://github.com/badmojr/1Hosts/issues/1193
+leetcode.cn
+
+# https://github.com/badmojr/1Hosts/issues/1192
+skeb.jp
+
+# https://github.com/badmojr/1Hosts/issues/1191
+unddit.com
+
+# https://github.com/badmojr/1Hosts/issues/1189
+dublincore.org
+
+# https://github.com/badmojr/1Hosts/issues/1188
+purl.org
+
+# https://github.com/badmojr/1Hosts/issues/1186
+notion.site
+
+# https://github.com/badmojr/1Hosts/issues/1185
+prodssl.protectedtransactions.com
+
+# https://github.com/badmojr/1Hosts/issues/1184
+xxxquake.com
+
+# https://github.com/badmojr/1Hosts/issues/1183
+fuckmovies.biz
+
+# https://github.com/badmojr/1Hosts/issues/1182
+map.vesselfinder.net
+
+# https://github.com/badmojr/1Hosts/issues/1177
+nic.buzz
+
+# https://github.com/badmojr/1Hosts/issues/1176
+gotanynudes.com
+
+# https://github.com/badmojr/1Hosts/issues/1175
+alexandria.org
+search.marginalia.nu
+
+# https://github.com/badmojr/1Hosts/issues/1171
+bingewatch.to
+
+# https://github.com/badmojr/1Hosts/issues/1164
+uphotel.agency
+
+# https://github.com/badmojr/1Hosts/issues/1160
+waveform.com
+
+# https://github.com/badmojr/1Hosts/issues/1157
+reliaquest.com
+
+# https://github.com/badmojr/1Hosts/issues/1154
+hf.space
+
+# https://github.com/badmojr/1Hosts/issues/1153
+writefull.com
+
+# https://github.com/badmojr/1Hosts/issues/1152
+gpt3demo.com
+dataconomy.com
+
