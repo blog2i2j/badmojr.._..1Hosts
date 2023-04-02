@@ -1,1 +1,18 @@
-#
+
+# https://github.com/badmojr/1Hosts/issues/1276
+highlight9614.webnode.page
+
+# https://github.com/badmojr/1Hosts/issues/1261
+stats.zdf.de
+
+# https://github.com/badmojr/1Hosts/issues/1168
+digital-analytics.amadeus.com
+analytics.genial.ly
+tracking.purchasely.io
+bbd-tag.de
+
+# https://github.com/badmojr/1Hosts/issues/1167
+lite.bz
+
+# https://github.com/badmojr/1Hosts/issues/1166
+metrics-antistress.junglefrog.com
