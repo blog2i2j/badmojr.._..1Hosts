@@ -137,3 +137,101 @@ writefull.com
 gpt3demo.com
 dataconomy.com
 
+# https://github.com/badmojr/1Hosts/issues/1150
+vitalik.ca
+
+# https://github.com/badmojr/1Hosts/issues/1135
+# https://github.com/badmojr/1Hosts/issues/1118
+app.gitbook.com
+
+# https://github.com/badmojr/1Hosts/issues/1134
+senato.it
+
+# https://github.com/badmojr/1Hosts/issues/1133
+markosweb.com
+
+# https://github.com/badmojr/1Hosts/issues/1132
+vscodium.com
+
+# https://github.com/badmojr/1Hosts/issues/1127
+www.bqprime.com
+
+# https://github.com/badmojr/1Hosts/issues/1126
+thecreativeindependent.com
+
+# https://github.com/badmojr/1Hosts/issues/1111
+ryanscomputers.com
+
+# https://github.com/badmojr/1Hosts/issues/1110
+home.social
+
+# https://github.com/badmojr/1Hosts/issues/1091
+prompt.cash
+btc.prompt.cash
+
+# https://github.com/badmojr/1Hosts/issues/1082
+www.unilad.com
+
+# https://github.com/badmojr/1Hosts/issues/1081
+rapid-cloud.co
+
+# https://github.com/badmojr/1Hosts/issues/1080
+rblx.trade
+
+# https://github.com/badmojr/1Hosts/issues/1079
+online.nmc-uk.org
+
+# https://github.com/badmojr/1Hosts/issues/1078
+transequality.org
+
+# https://github.com/badmojr/1Hosts/issues/1074
+mrgay.com
+
+# https://github.com/badmojr/1Hosts/issues/1073
+Lidl.cz
+
+# https://github.com/badmojr/1Hosts/issues/1072
+game.fate-go.us
+
+# https://github.com/badmojr/1Hosts/issues/1059
+apkdone.download
+
+# https://github.com/badmojr/1Hosts/issues/1058
+lidlplus.com
+
+# https://github.com/badmojr/1Hosts/issues/1057
+neural.love
+
+# https://github.com/badmojr/1Hosts/issues/1054
+freedif.org
+
+# https://github.com/badmojr/1Hosts/issues/1040
+letmejerk.net
+
+# https://github.com/badmojr/1Hosts/issues/1039
+libgen.rocks
+
+# https://github.com/badmojr/1Hosts/issues/1038
+jpg2png.com
+
+# https://github.com/badmojr/1Hosts/issues/1037
+tunemymusic.com
+
+# https://github.com/badmojr/1Hosts/issues/1036
+becdn.net
+
+# https://github.com/badmojr/1Hosts/issues/1033
+cobratate.com
+
+# https://github.com/badmojr/1Hosts/issues/1031
+radio.virginradio.co.uk
+stream.tibus.mobi
+
+# https://github.com/badmojr/1Hosts/issues/1010
+bldimg.com
+
+# https://github.com/badmojr/1Hosts/issues/1009
+polygraph.net
+
+# https://github.com/badmojr/1Hosts/issues/1008
+dzen.ru
