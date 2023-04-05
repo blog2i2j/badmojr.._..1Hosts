@@ -1,1 +1,29 @@
-f
+
+# https://github.com/badmojr/1Hosts/issues/1285
+admanager.conunity.io
+
+# https://github.com/badmojr/1Hosts/issues/1262
+rosetta.prod.ps.welt.de
+https://github.com/ph00lt0/blocklist/blob/master/rpz-blocklist.txt
+
+# https://github.com/badmojr/1Hosts/issues/1255
+diagnostic.degiro.nl
+
+# https://github.com/badmojr/1Hosts/issues/1249
+collector.seranking.com
+https://github.com/soteria-nou/domain-list/blob/master/analytics.txt
+
+# https://github.com/badmojr/1Hosts/issues/1247
+cmpum.com
+www.cmpum.com
+
+# https://github.com/badmojr/1Hosts/issues/1242
+ast.welt.de
+
+# https://github.com/badmojr/1Hosts/issues/1231
+ssl.1.damoh.welt.de
+ssl.2.damoh.welt.de
+ssl.3.damoh.welt.de
+
+# https://github.com/badmojr/1Hosts/issues/992
+radar.game
