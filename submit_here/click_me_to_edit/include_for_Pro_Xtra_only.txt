@@ -1,1 +1,39 @@
 
+# https://github.com/badmojr/1Hosts/issues/1301
+azwertag.ru
+
+# https://github.com/badmojr/1Hosts/issues/1299
+4uyiopkijhuygghjghjgfty.page.link
+
+# https://github.com/badmojr/1Hosts/issues/1296
+lancy.cloud
+www.lancy.cloud
+gnftohstpg.lancy.cloud
+
+# https://github.com/badmojr/1Hosts/issues/1295
+bestwayswap.club
+www.bestwayswap.club
+wedzumqubv.bestwayswap.club
+
+# https://github.com/badmojr/1Hosts/issues/1293
+tracking.bda.rtbf.be
+tracking.club.be
+tracking.copernica.net
+pixel.wetracked.io
+tracking.rosettastone.com
+tracking.message-business.com
+tracking-t1.genial.ly
+mail-tracking.phrasee.co
+
+# https://github.com/badmojr/1Hosts/issues/1290
+tracker.prd.bda.rtbf.be
+
+# https://github.com/badmojr/1Hosts/issues/1289
+analytics.lewebconcret.ch
+
+# https://github.com/badmojr/1Hosts/issues/1211
+totalav.com
+www.totalav.com
+
+# https://github.com/badmojr/1Hosts/issues/966
+hello.myfonts.net
