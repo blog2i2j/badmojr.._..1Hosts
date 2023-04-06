@@ -13,7 +13,9 @@ jobs:
       - name: Prep submit_here
         run: |
           (
+          export LC_ALL=C
           umask 022
+          
           prints() { sed -e '$a\' "$@"; }
           baseDir="./submit_here"
           edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
