@@ -1,4 +1,40 @@
 
+# https://github.com/badmojr/1Hosts/issues/1380
+analytics.danghongyun.com
+
+# https://github.com/badmojr/1Hosts/issues/1373
+franceoffrande.website
+
+# https://github.com/badmojr/1Hosts/issues/1357
+telutopiez.club
+www.telutopiez.club
+btc.telutopiez.club
+bitcoin.telutopiez.club
+
+# https://github.com/badmojr/1Hosts/issues/1351
+analytics.niefuend.org
+
+# https://github.com/badmojr/1Hosts/issues/1330
+rukalebi.ru
+
+# https://github.com/badmojr/1Hosts/issues/1322
+cheapstorys.com
+www.cheapstorys.com
+
+# https://github.com/badmojr/1Hosts/issues/1319
+collect.springer.com
+
+# https://github.com/badmojr/1Hosts/issues/1316
+zalpo.co.uk
+
+# https://github.com/badmojr/1Hosts/issues/1315
+nadns.ru
+xcoinsystem.su
+
+# https://github.com/badmojr/1Hosts/issues/1311
+maelcheck.com
+www.maelcheck.com
+
 # https://github.com/badmojr/1Hosts/issues/1301
 azwertag.ru
 
