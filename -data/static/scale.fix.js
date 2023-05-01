@@ -25,3 +25,14 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 })(document);
+
+
+const links = document.querySelectorAll('a');
+links.forEach(link => {
+  if (link.hostname !== window.location.hostname) {
+    link.addEventListener('click', function(event) {
+      event.preventDefault();
+      window.open(this.href, '_blank');
+    });
+  }
+});
