@@ -1,3 +1,0 @@
-umbrel.com
-api.umbrel.com
-jupiterone.io
