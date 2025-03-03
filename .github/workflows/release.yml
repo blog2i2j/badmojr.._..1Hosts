@@ -6,7 +6,6 @@ on:
     branches:
       - master
     paths:
-     - 'mini/**'
      - 'Lite/**'
      - 'Pro/**'
      - 'Xtra/**'
@@ -26,7 +25,7 @@ jobs:
           (
           listFiles() { find "$1" -type f -print; }
           rm -rf release tmp && mkdir -p $_ release
-          cp -rf mini Lite Pro Xtra tmp && cd $_
+          cp -rf Lite Pro Xtra tmp && cd $_
           while read -r i; do
           renamed=$(echo $i |sed 's:\./::g; s:/:_:g')
           newname=1hosts-"$renamed"
