@@ -1,0 +1,8 @@
+
+# https://github.com/badmojr/1Hosts/issues/1767
+adapty.io
+api.adapty.io
+track.adapty.io
+
+# https://github.com/badmojr/1Hosts/issues/1313
+preroll.hostave3.net
