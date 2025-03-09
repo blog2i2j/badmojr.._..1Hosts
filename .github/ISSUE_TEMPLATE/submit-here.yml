@@ -1,0 +1,66 @@
+name: Submit here
+description: Please use this form to submit domains that you need removed or blocked.
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <br>
+        <h2 align="center">Submit Form</h2>
+        <div align="center">
+          Get your issue resolved quickly! Fill in the form accurately.
+        </div>
+        
+  - type: checkboxes
+    id: lists_in_use
+    attributes:
+      label: Lists in use
+      description: |
+         Which list(s) caused the issue?
+      options:
+        - label: Lite
+        - label: Pro
+        - label: Xtra
+
+  - type: input
+    id: client
+    attributes:
+      label: Client
+      description: |
+        Type the name of the adblock client with which you use the lists.
+        (e.g NextDNS, Pi-hole, AdGuardHome, etc).
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: Domains
+      description: |
+        Provide the domain/subdomain(s) needing removal or inclusion.
+      placeholder: |
+        example.com
+        a.example.org
+        a.b.example.net
+      render: yaml
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: |
+        Outline why the domain(s) should be added or removed, supported by steps and screenshots if relevant.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <h2>Thank you for supporting 1Hosts.</h2>
+          <sub>It’s people like you who make these lists great! ❤</sub>
+        </div>
