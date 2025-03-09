@@ -30,7 +30,7 @@ body:
     attributes:
       label: "Client:"
       description: |
-        Enter the adblock client you’re using (e.g., NextDNS, Pi-hole, AdGuardHome).
+        Input the name of your adblock client used with these lists (e.g., NextDNS, Pi-hole, AdGuardHome).
     validations:
       required: true
 
