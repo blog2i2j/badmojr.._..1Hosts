@@ -53,7 +53,7 @@ body:
     attributes:
       label: "Details:"
       description: |
-        Outline why the domain(s) should be added or removed, supported by steps and screenshots if relevant.
+        Outline why the domain(s) should be added or removed, supported by replication steps and screenshots if relevant.
     validations:
       required: true
 
