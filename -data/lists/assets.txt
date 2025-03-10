@@ -236,7 +236,10 @@ https://github.com/hagezi/dns-blocklists/raw/main/domains/personal.txt
 https://github.com/KokichaKolevTM/BG-Adblock-list/raw/main/BG-Adblock-list.txt
 https://github.com/hroyer/pihole-lists/raw/master/lists/blocklist.txt
 https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/hosts
+https://github.com/TG-Twilight/AWAvenue-Ads-Rule/raw/main/Filters/AWAvenue-Ads-Rule-Adguard.txt
+https://github.com/pengcu/AdguradHomeList/raw/master/AdguardHome.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 https://github.com/c3ri/adlists/raw/main/regex
+https://github.com/TG-Twilight/AWAvenue-Ads-Rule/raw/build/rule/domain_regex.txt
 
