@@ -107,9 +107,6 @@ lbs.map.qq.com
 # https://github.com/badmojr/1Hosts/issues/1586
 clicks.meetup.com
 
-# https://github.com/badmojr/1Hosts/issues/1578
-pixl.li
-
 # https://github.com/badmojr/1Hosts/issues/1563
 ipify.org
 www.ipify.org
